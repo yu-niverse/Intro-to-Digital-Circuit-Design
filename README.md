@@ -1,5 +1,5 @@
 # Introduction to Digital Circuit Design
-
+【 NYCU 2021 Spring Semester 】by Professor 單智君
 ### Languages
 Verilog
 
