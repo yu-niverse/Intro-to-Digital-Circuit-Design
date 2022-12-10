@@ -1,1 +1,6 @@
-# Intro-to-Digital-Circuit-Design
+# Introduction to Digital Circuit Design
+
+### Languages
+Verilog
+
+### Contents
